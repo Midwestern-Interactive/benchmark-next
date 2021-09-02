@@ -1,3 +1,16 @@
+# ARCHIVED
+Please see our new [tech challenge](https://github.com/Midwestern-Interactive/tech-challenge) if you are applying for a position at Midwestern!
+
+
+
+
+
+
+
+
+
+
+<!--
 # Benchmark Test
 
 We are excited you are interested in putting your name in the hat for an internship or entry level position here at Midwestern Interactive. Please read the instructions carefully and follow the steps of the benchmark process.
@@ -59,3 +72,4 @@ At the bottom of the mock up there is a Javascript puzzle. Please use the follow
 - Tyler Viles
 
 ---
+-->
